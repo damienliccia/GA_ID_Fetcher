@@ -16,7 +16,7 @@ cd GA_ID_Fetcher/
 # Pour exécuter le script 
 bash getGA.sh 
 
-# Pour récupérer les résults 
+# Pour récupérer les résultats 
 cat output.txt 
 
 ```
