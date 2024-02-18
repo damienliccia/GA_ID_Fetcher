@@ -1,4 +1,4 @@
-## Un script qui utilise bash pour récupérer des identifiants Google Analytics
+## Un script Bash pour récupérer des identifiants Google Analytics
 
 Un script Bash relativement simple qui utilise curl pour extraire les identifiants Google Analytics pouvant être présents sur des sites internet.
 
