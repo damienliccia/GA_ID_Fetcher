@@ -1,10 +1,10 @@
 ## Un script Bash pour récupérer des identifiants Google Analytics
 
-Un script Bash relativement simple qui utilise curl pour extraire les identifiants Google Analytics pouvant être présents sur des sites internet.
+Un **script Bash** relativement simple qui utilise **curl** pour extraire les identifiants Google Analytics pouvant être présents sur des sites internet.
 
 Les sites à tester doivent être ajoutés dans le fichier *urls_to_check.txt*.
 
-Note : pour éviter les duplicates à chaque itération du script, le fichier de résultat *output.txt* est supprimé à chaque lancement du script. 
+Note : pour éviter les duplicates à chaque lancement du script, le fichier de résultat *output.txt* est supprimé. 
 
 Pour utiliser ce projet : 
 
