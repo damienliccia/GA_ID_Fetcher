@@ -9,7 +9,7 @@ fi
 
 # Iterates over input URLs and assigns the corresponding GA Identifier 
 for i in $(cat urls_to_check.txt); do 
-  gaid=$(curl -s "$i" | perl -nle 'print $& if /id=G-[^"]+/')
+  gaid=$(curl -s "$i" | perl -nle 'print $& if /id=G-[^"]+/' | sed 's/^.*=//')
   domain=$(echo "$i" | sed 's/^.*www\.//' | sed 's/.$//')
   
   echo "Processing $domain"
