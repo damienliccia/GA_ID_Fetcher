@@ -22,5 +22,8 @@ cat output.txt
 ```
 
 
-https://github.com/damienliccia/GA_ID_Fetcher/assets/24547427/2ec6f2c9-1692-4922-ad86-4266ed2351e1
+
+https://github.com/damienliccia/GA_ID_Fetcher/assets/24547427/470889b1-9d0c-493d-8978-73ad5e97cfff
+
+
 
